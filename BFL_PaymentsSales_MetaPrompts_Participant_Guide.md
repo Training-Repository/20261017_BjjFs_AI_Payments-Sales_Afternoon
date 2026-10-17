@@ -39,7 +39,7 @@ The prompt should specify: role, task, context, constraints, output format, and 
 
 | Element | What It Means | Example (Payments Field Sales) |
 |---------|---------------|-------------------------------|
-| **R** — Role | Who are you? | "You are a Field Officer in Payments sales at Bajaj Finance Limited" |
+| **R** — Role | Who are you? | "You are an FOS (Feet on Street) sales executive in Payments sales at Bajaj Finance Limited" |
 | **T** — Task | What do you need? | "Write a two-minute pitch for a pharmacy owner" |
 | **C** — Context | What is the situation? | "Busy counter, mostly UPI customers, already has another QR" |
 | **F** — Format | How should it look? | "Under 120 words: 3 benefits, 1 objection reply, closing line" |
@@ -57,7 +57,7 @@ The prompt should specify: role, task, context, constraints, output format, and 
 | Merchant Lead Pipeline | A September sample of 25 merchants from lead to first transaction, with install SLA, stage and next action |
 | Activation & Usage | The 22 installed merchants: September payment value (TPV), transactions, active or inactive, usage band |
 | Field Visit Log | 15 FOS visits (21–30 Sep) with outcome and the objection raised |
-| FOS Performance | 5 Field Officers, Jul–Sep 2026 (full quarter, all onboardings): onboarding vs target, activation within 7 days, new TPV, visits |
+| FOS Performance | 5 FOS executives, Jul–Sep 2026 (full quarter, all onboardings): onboarding vs target, activation within 7 days, new TPV, visits |
 | Merchant Queries | 15 merchant questions and objections, with category and whether resolved |
 
 `Merchant_Offer_and_FAQ_Sheet.pdf`: products, rentals and waivers, installation SLAs, the activation rule, settlement, objection replies and conduct rules. It is a **training sample**. Do not quote its prices to real merchants.
@@ -74,7 +74,7 @@ The prompt should specify: role, task, context, constraints, output format, and 
 ```
 Act as a Microsoft Copilot prompt expert.
 
-I am a Field Officer (FOS) in Payments sales at Bajaj Finance Limited.
+I am an FOS (Feet on Street) sales executive in Payments sales at Bajaj Finance Limited.
 I need a short pitch to sign up a merchant for the right payment product —
 UPI QR, QR + soundbox, Android POS or payment link — based on their category.
 My audience is the shop owner, who has about two minutes.
@@ -88,7 +88,7 @@ The prompt should specify: role, task, context, constraints, output format, and 
 *(Typical output. Yours will be worded differently.)*
 
 ```
-You are a Field Officer in Payments sales at Bajaj Finance Limited.
+You are an FOS (Feet on Street) sales executive in Payments sales at Bajaj Finance Limited.
 
 Task: Write a two-minute pitch for the merchant described below.
 
@@ -134,7 +134,7 @@ Then give me the same pitch for the pharmacy in Hindi.
 ```
 Act as a Microsoft Copilot prompt expert.
 
-I am a Field Officer in Payments sales at Bajaj Finance Limited.
+I am an FOS (Feet on Street) sales executive in Payments sales at Bajaj Finance Limited.
 I need a visit plan for tomorrow from my onboarding pipeline — inactive
 merchants, installs due, KYC pending and new leads — with activation within
 7 days of install as my main target.
@@ -147,7 +147,7 @@ The prompt should specify: role, task, context, constraints, output format, and 
 ### Step 2 — Copilot Generates Your Working Prompt
 
 ```
-You are a Field Officer in Payments sales at Bajaj Finance Limited.
+You are an FOS (Feet on Street) sales executive in Payments sales at Bajaj Finance Limited.
 
 Task: Build tomorrow's visit plan from the pipeline for one FOS.
 
@@ -187,7 +187,7 @@ using the Merchant Lead Pipeline, Activation & Usage and Merchant Queries sheets
 ```
 Act as a Microsoft Copilot prompt expert.
 
-I am a Field Officer in Payments sales at Bajaj Finance Limited.
+I am an FOS (Feet on Street) sales executive in Payments sales at Bajaj Finance Limited.
 I need replies to the objections merchants raise, using only our offer sheet.
 My audience is the merchant, face to face.
 
@@ -198,7 +198,7 @@ The prompt should specify: role, task, context, constraints, output format, and 
 ### Step 2 — Copilot Generates Your Working Prompt
 
 ```
-You are a Field Officer in Payments sales at Bajaj Finance Limited.
+You are an FOS (Feet on Street) sales executive in Payments sales at Bajaj Finance Limited.
 
 Task: Give a reply to each merchant objection listed.
 
@@ -242,7 +242,7 @@ and give me a reply for each, as described above.
 ```
 Act as a Microsoft Copilot prompt expert.
 
-I am a Field Officer in Payments sales at Bajaj Finance Limited.
+I am an FOS (Feet on Street) sales executive in Payments sales at Bajaj Finance Limited.
 I need short WhatsApp messages for merchants who have a device installed but
 have not taken a payment yet, in English and in Hindi or Marathi.
 My audience is the merchant.
@@ -254,7 +254,7 @@ The prompt should specify: role, task, context, constraints, output format, and 
 ### Step 2 — Copilot Generates Your Working Prompt
 
 ```
-You are a Field Officer in Payments sales at Bajaj Finance Limited.
+You are an FOS (Feet on Street) sales executive in Payments sales at Bajaj Finance Limited.
 
 Task: Write a WhatsApp message to a merchant who has not taken a first payment.
 
@@ -292,7 +292,7 @@ My name is Priya Jagtap. Give it in English and Marathi.
 Act as a Microsoft Copilot prompt expert.
 
 I am a Team Lead in Payments sales at Bajaj Finance Limited.
-I need a monthly review of my Field Officers for Jul–Sep 2026 — onboarding
+I need a monthly review of my FOS executives for Jul–Sep 2026 — onboarding
 against target, activation within 7 days (target 80%), new TPV and visits.
 My audience is my Area Manager.
 

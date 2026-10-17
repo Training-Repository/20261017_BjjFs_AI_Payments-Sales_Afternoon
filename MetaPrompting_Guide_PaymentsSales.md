@@ -40,7 +40,7 @@ Copy, paste and run each of these in Copilot. Then use the prompt it writes as y
 
 ```
 Act as a Microsoft Copilot prompt expert.
-I am a Field Officer (FOS) in the Payments sales team at Bajaj Finance Limited. I visit shops —
+I am an FOS (Feet on Street) sales executive in the Payments sales team at Bajaj Finance Limited. I visit shops —
 kirana stores, pharmacies, restaurants, apparel, jewellers, salons, clinics — and sign them up for
 UPI QR, a QR with a voice-alert soundbox, an Android POS machine, or payment links. I have about
 two minutes with the owner, who is busy serving customers.
@@ -59,7 +59,7 @@ closing line. Tone: simple, respectful, confident. Keep it under 120 words so I 
 
 ```
 Act as a Microsoft Copilot prompt expert.
-I am a Field Officer in Payments sales at Bajaj Finance Limited. Each morning I plan my visits from
+I am an FOS (Feet on Street) sales executive in Payments sales at Bajaj Finance Limited. Each morning I plan my visits from
 my onboarding pipeline: new leads, merchants with KYC pending, devices to install, and merchants who
 have a device but have not started transacting. Activation within 7 days of install is my key target.
 
@@ -77,7 +77,7 @@ and present it as a short numbered list I can read on my phone.
 
 ```
 Act as a Microsoft Copilot prompt expert.
-I am a Field Officer in Payments sales at Bajaj Finance Limited. Merchants often raise objections:
+I am an FOS (Feet on Street) sales executive in Payments sales at Bajaj Finance Limited. Merchants often raise objections:
 "customers pay cash", "the soundbox rental is too high", "settlement takes too long", "I already
 use another QR", "are there charges on UPI?". I have our offer sheet with prices, waivers and
 settlement terms.
@@ -96,7 +96,7 @@ anything that is not in the sheet. Tone: calm, honest, non-pushy.
 
 ```
 Act as a Microsoft Copilot prompt expert.
-I am a Field Officer in Payments sales at Bajaj Finance Limited. Some merchants have a QR, soundbox
+I am an FOS (Feet on Street) sales executive in Payments sales at Bajaj Finance Limited. Some merchants have a QR, soundbox
 or POS installed but have not taken a single payment yet. I want to send them a short WhatsApp
 message before my revisit, in English and in Hindi or Marathi.
 
@@ -114,7 +114,7 @@ warm, helpful, not salesy. No links unless I give one.
 
 ```
 Act as a Microsoft Copilot prompt expert.
-I am a Team Lead in Payments sales at Bajaj Finance Limited. Each month I review my Field Officers
+I am a Team Lead in Payments sales at Bajaj Finance Limited. Each month I review my FOS executives
 on onboarding against target, activation within 7 days (target 80%), new payment value (TPV) and
 field visits, for the last three months.
 
@@ -132,7 +132,7 @@ below 80%, a falling trend, a gap between onboarding and activation).
 
 ```
 Act as a Microsoft Copilot prompt expert.
-I am a Field Officer in Payments sales at Bajaj Finance Limited. After each visit I type or dictate
+I am an FOS (Feet on Street) sales executive in Payments sales at Bajaj Finance Limited. After each visit I type or dictate
 rough notes on my phone. I need them turned into a clean visit record for our CRM.
 
 My audience is my Team Lead and the CRM.
