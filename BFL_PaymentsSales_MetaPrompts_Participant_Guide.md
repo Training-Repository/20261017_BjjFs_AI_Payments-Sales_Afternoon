@@ -49,14 +49,15 @@ The prompt should specify: role, task, context, constraints, output format, and 
 
 ## Your Files at a Glance
 
-`BFL_PaymentsSales_Copilot_Dataset.xlsx`: in every sheet the title is in row 1, headers are in row 4 and data starts in row 5.
+`BFL_PaymentsSales_Copilot_Dataset.xlsx`: in every sheet the title is in row 1, headers are in row 4 and data starts in row 5. **Merchant ID** links the merchant-level sheets. A **blank date** means that step hasn't happened yet; it is not missing data.
 
 | Sheet | What it holds |
 |---|---|
-| Merchant Lead Pipeline | 25 merchants from lead to first transaction (1–30 Sep 2026), with stage and next action |
+| Read Me | What each sheet holds, and what blanks and special values mean |
+| Merchant Lead Pipeline | A September sample of 25 merchants from lead to first transaction, with install SLA, stage and next action |
 | Activation & Usage | The 22 installed merchants: September payment value (TPV), transactions, active or inactive, usage band |
 | Field Visit Log | 15 FOS visits (21–30 Sep) with outcome and the objection raised |
-| FOS Performance | 5 Field Officers, Jul–Sep 2026: onboarding vs target, activation within 7 days, new TPV, visits |
+| FOS Performance | 5 Field Officers, Jul–Sep 2026 (full quarter, all onboardings): onboarding vs target, activation within 7 days, new TPV, visits |
 | Merchant Queries | 15 merchant questions and objections, with category and whether resolved |
 
 `Merchant_Offer_and_FAQ_Sheet.pdf`: products, rentals and waivers, installation SLAs, the activation rule, settlement, objection replies and conduct rules. It is a **training sample**. Do not quote its prices to real merchants.

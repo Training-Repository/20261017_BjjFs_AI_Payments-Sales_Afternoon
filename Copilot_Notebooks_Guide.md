@@ -52,7 +52,7 @@ Your folder should now hold **6 files**:
 ```
 Copilot-Training-PaymentsSales/
 ├── BFL_PaymentsSales_Copilot_Demo.xlsx          (25 merchants, as of 30 Sep 2026)
-├── BFL_PaymentsSales_Copilot_Dataset.xlsx       (Merchant Lead Pipeline, Activation & Usage,
+├── BFL_PaymentsSales_Copilot_Dataset.xlsx       (Read Me, Merchant Lead Pipeline, Activation & Usage,
 │                                                 Field Visit Log, FOS Performance, Merchant Queries)
 ├── Merchant_Offer_and_FAQ_Sheet.pdf             (offer sheet & FAQ — training sample)
 ├── MetaPrompting_Guide_PaymentsSales.txt
@@ -100,7 +100,7 @@ Tell me if any file could not be read.
 
 ### ✅ Check
 - [ ] All **6 files** are listed.
-- [ ] The dataset's **five** sheets are named.
+- [ ] The dataset's **five** data sheets are named, plus the **Read Me** sheet.
 - [ ] The demo file shows 25 merchants (MER-4101 to MER-4125).
 - [ ] The PDF is identified as the Merchant Offer Sheet & Field FAQ (ref PAY-SALES-FAQ-03), training sample.
 

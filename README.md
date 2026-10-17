@@ -24,7 +24,7 @@ The session covers:
 | [`Copilot_Notebooks_Guide.md`](Copilot_Notebooks_Guide.md) | Using Copilot Notebooks as a persistent workspace (also on your phone). Exercises cover why inactive merchants aren't transacting, and why one area's activation is falling, without re-attaching files. |
 | [`copilot-pdf-playbook.md`](copilot-pdf-playbook.md) | Repeatable process for turning a document into a formatted PDF using Copilot and Word, with a merchant leave-behind as the example. |
 | [`Merchant_Offer_and_FAQ_Sheet.pdf`](Merchant_Offer_and_FAQ_Sheet.pdf) | Offer sheet and field FAQ (training sample) covering products, rentals and waivers, install SLAs, the activation rule, settlement, objection replies, and conduct and data rules. |
-| [`BFL_PaymentsSales_Copilot_Dataset.xlsx`](BFL_PaymentsSales_Copilot_Dataset.xlsx) | Practice dataset for the meta-prompt stages. Sheets: Merchant Lead Pipeline, Activation & Usage, Field Visit Log, FOS Performance, Merchant Queries. |
+| [`BFL_PaymentsSales_Copilot_Dataset.xlsx`](BFL_PaymentsSales_Copilot_Dataset.xlsx) | Practice dataset for the meta-prompt stages. Sheets: Read Me (data conventions), Merchant Lead Pipeline, Activation & Usage, Field Visit Log, FOS Performance, Merchant Queries. |
 | [`BFL_PaymentsSales_Copilot_Demo.xlsx`](BFL_PaymentsSales_Copilot_Demo.xlsx) | Practice dataset for the Excel exercises: 25 merchant onboardings as of 30 Sep 2026, with columns N–Q left blank for Copilot-generated formulas. |
 | [`PDFs/`](PDFs) | PDF versions of the seven guides. |
 | [`Contact.md`](Contact.md) | Trainer contact details. |
